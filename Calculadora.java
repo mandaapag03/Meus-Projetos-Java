@@ -6,12 +6,12 @@ import java.util.Scanner;
 public class Calculadora {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
-        Scanner teclado = new Scanner (System.in);
+        Scanner teclado = new Scanner(System.in);
         System.out.println("Informe o 1° número: ");
         double n1 = teclado.nextDouble();
         System.out.println("Informe o operador: ");
         String op = teclado.next();
-        op = op.replace('x','*');
+        op = op.replace('x', '*');
         System.out.println("Informe o 2° número: ");
         double n2 = teclado.nextDouble();
 
