@@ -7,6 +7,7 @@ public class Calculadora {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner teclado = new Scanner(System.in);
+        System.out.println("CALCULADORA");
         System.out.println("Informe o 1° número: ");
         double n1 = teclado.nextDouble();
         System.out.println("Informe o operador: ");
