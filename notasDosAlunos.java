@@ -6,7 +6,7 @@ import java.util.Locale;
 public class notasDosAlunos {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
-        System.out.println("Cálculo de média anual");
+        System.out.println("Cálculo de média anual do aluno");
         String nome = JOptionPane.showInputDialog("Digite seu nome: ");
         String bim1 = JOptionPane.showInputDialog("Informe sua nota de 1°bimestre: ");
         System.out.print("1°bimestre: " + bim1);
