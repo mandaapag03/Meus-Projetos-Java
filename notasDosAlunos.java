@@ -1,4 +1,4 @@
-package addHabilidades;
+package addMaisHabilidades;
 
 import javax.swing.*;
 import java.util.Locale;
