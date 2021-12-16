@@ -17,7 +17,7 @@ public class notasDosAunosWhile {
             if(notas >= 0 && notas <= 10){
                 somaDasNotas += notas;
                 quantidadeDeNotas ++;
-            } else if (notas <= 0 && notas >= 10) {
+            } else if (notas < 0 && notas > 10) {
                 System.out.println("Nota inválida!!");
             }else if (notas == -1) {
                 //Calcular médias
