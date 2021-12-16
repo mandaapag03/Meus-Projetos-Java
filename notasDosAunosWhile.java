@@ -19,7 +19,7 @@ public class notasDosAunosWhile {
                 quantidadeDeNotas ++;
             } else if (notas <= 0 && notas >= 10) {
                 System.out.println("Nota inválida!!");
-            } else if (notas == -1) {
+            }else if (notas == -1) {
                 //Calcular médias
                 double media = somaDasNotas/ quantidadeDeNotas;
                 System.out.printf("Média = %.1f\n", media);
