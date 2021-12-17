@@ -6,6 +6,7 @@ public class CalculadoraWhile {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Calculadora");
+
         double numero = 0;
         double armazenamento = 0;
         String operador = "";

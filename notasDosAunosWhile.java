@@ -1,9 +1,11 @@
 package addMaisHabilidades;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class notasDosAunosWhile {
     public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
         Scanner teclado = new Scanner(System.in);
 
         double notas = 0;
