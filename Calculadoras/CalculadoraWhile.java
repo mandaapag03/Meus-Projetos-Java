@@ -1,4 +1,4 @@
-package addMaisHabilidades;
+package addMaisHabilidades.Calculadoras;
 
 import java.util.Scanner;
 

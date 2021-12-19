@@ -1,4 +1,4 @@
-package addMaisHabilidades;
+package addMaisHabilidades.mediasAlunos;
 
 import javax.swing.*;
 import java.util.Locale;
