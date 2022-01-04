@@ -1,4 +1,4 @@
-package VsJava.src;
+package addMaisHabilidades;
 
 import java.util.Scanner;
 

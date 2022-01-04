@@ -1,4 +1,4 @@
-package VsJava.src;
+package addMaisHabilidades;
 
 public class Livros {
     String nome;
