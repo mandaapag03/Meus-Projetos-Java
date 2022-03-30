@@ -1,4 +1,4 @@
-package collections;
+package ProjetosJava.exercíciosClasses;
 
 public class Batata {
     boolean casca;

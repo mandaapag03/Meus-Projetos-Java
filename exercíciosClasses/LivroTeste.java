@@ -1,4 +1,4 @@
-package addMaisHabilidades.classes;
+package ProjetosJava.exercíciosClasses;
 
 import java.util.Scanner;
 

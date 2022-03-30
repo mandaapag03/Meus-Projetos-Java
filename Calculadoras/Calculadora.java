@@ -1,4 +1,4 @@
-package addMaisHabilidades.Calculadoras;
+package ProjetosJava.Calculadoras;
 
 import java.util.Locale;
 import java.util.Scanner;

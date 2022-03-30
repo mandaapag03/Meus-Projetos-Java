@@ -1,4 +1,4 @@
-package addMaisHabilidades.OperadoresLogicos.RadarDeCarroCaminhao;
+package ProjetosJava.AulaDeOperadoresLogicos.RadarDeCarroCaminhao;
 
 public class radar {
     

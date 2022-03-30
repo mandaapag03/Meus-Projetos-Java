@@ -1,4 +1,4 @@
-package addMaisHabilidades.ExerciciosDeEstruturasDeControle;
+package ProjetosJava.ExerciciosDeEstruturasDeControle;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package addMaisHabilidades.classes;
+package ProjetosJava.exercíciosClasses;
 
 public class Livros {
     String nome;
